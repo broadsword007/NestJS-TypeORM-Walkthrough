@@ -8,7 +8,7 @@
 This is a just a walkthrough to get hands on with NestJS and TypeORM.
 
 ### Tasks
-* Bullet List Corrected the structure of modules(It was wrong in the last walkthrough)
+* Corrected the structure of modules(It was wrong in the last walkthrough)
 	* now we have a central AppModule separate from ManagementModule(Previously we went straight to ManagementModule)
 * Removed mongoose and thus mongoDB and shifted to a remote MySQL database
 * Integrated ORM instead of writing queries
